@@ -9,7 +9,7 @@
 * [专题研究](https://www.w3.org/html/ig/zh/wiki/专题研究)
 * [翻译](https://www.w3.org/html/ig/zh/wiki/翻译)
 * [会议纪录](https://www.w3.org/html/ig/zh/wiki/会议纪录)
-* [IG 在线 Talk](https://www.w3.org/html/ig/zh/wiki/IG 在线 Talk)
+* [IG 在线 Talk](https://www.w3.org/html/ig/zh/wiki/IG_在线_Talk)
 * [小组成员列表](https://www.w3.org/html/ig/zh/wiki/小组成员列表)
 
 ## 翻译与贡献
